@@ -1,7 +1,7 @@
 # :fire: FireEdit :pencil:
 A real-time editor built with JavaScript and Firebase.
 
-[Click here](https://coltaemanuela.github.io/FireEdit/) to see it in action. :rocket:
+[Click here](https://inquid.github.io/FireEdit/) to see it in action. :rocket:
 [![](https://i.imgur.com/R2R62ie.png)](https://coltaemanuela.github.io/FireEdit/)
 
 ## About
